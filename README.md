@@ -1,3 +1,7 @@
+# CHECK OUT HOW THE APP LOOKS LIKE 
+
+[here!](https://glittery-rabanadas-5650c9.netlify.app)
+
 # making an app that provid:
  
  the user with  articles, up todate 
